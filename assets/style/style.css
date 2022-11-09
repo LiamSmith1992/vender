@@ -1,0 +1,9 @@
+/* BASIC STYLES HERE */
+.itemHeight {
+  height: 100px;
+}
+
+.activeImage {
+  height: 300px;
+  width: 300px;
+}
